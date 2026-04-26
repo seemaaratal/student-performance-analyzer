@@ -14,7 +14,7 @@ This project uses K-Means Clustering to group students based on their marks.
 - Scikit-learn
 
 ## Output
-(Graph screenshot here)
+![Student Clustering Output](output.png)
 
 ## Author
 Seema Aratal
